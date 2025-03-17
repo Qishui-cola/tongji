@@ -1,0 +1,4 @@
+fire_GUI是图形化界面，集合两种功能
+fire_detect是选取视频/图片链接进行检测
+fire_mss是截取窗口区域实时监测电脑屏幕
+fire.mp4和fire_3.jpg是测试用视频/图片
